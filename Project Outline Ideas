@@ -1,0 +1,60 @@
+Write a brief description of your project here.
+
+Note that projects should be self-sufficient, so make sure to provide enough information and context here for someone to understand what you are doing in your project, and why.
+
+Originally I wanted to do text-adventure/visual novel type of project but I couldn't come up with any solid ideas on what to write about if it were following a specific storyline. So in order to still have that visual novel feel, I decided to somewhat morph it with a VAR training workshop that my organization (Active Minds @ UCSD) held a while ago and turn my project into a type of educational visual novel where it presents you with scenarios you might encounter in real life and how you can practice VAR in these situations. Sometimes it can be difficult to know what to say when someone you know and love is going through tough times and needs support. To address this, VAR can be a useful tool to remember and use. 
+
+
+Instructional Video type format where I'm the instructor providing feedback on your choices as the scenario progresses (and tips) at the end
+
+Introduction:
+    introduces self
+    asks for user's name and stores it in data for later reference
+    Explain VAR and its importance
+    
+(Might stick to just one scenario depending on the length and complexity when adding in the feedback)
+Scenario 1: No Movivation
+    (maybe incorporate random name of "friend" or ask them to input a friend to make it more personal)
+    Scene set-up
+    friend:Hey (name), can I be honest with you? Maybe you've been experiencing the same thing with all this remote learning stuff going on. 
+        Choices
+            A. Of course! what's up?
+            B. Yeah, sure thing, I'm all ears.
+                     Narration (Remember to use VAR!)
+     friend: Well, I've been having a hard time getting out of bed everyday. I've been missing classes and I've hardly started any of my assignments. I just can't get myself motivated. 
+         Choices:
+             A. Oh man, I'm so sorry to hear that you're struggling with all of this right now. I definitely resonate with how you're feeling as I've felt that way sometimes too and I understand how hard it is.
+             B. Oh wow, uhm, that sounds really tough but unfortunately I can't really relate. 
+             *Provide feedback*
+     friend: R-really?! Oh wow, it's really reassuring to know that I'm not the only one feeling like this, y'know it sometimes feels like everyone at the school knows what they're doing and has everything under control. I thought I was just dumb or the odd one out.
+         Choices:
+             A. Yeah, I agree! You're definitely not the only one who feels that way sometimes; we all struggle sometimes! I just want to let you know that I really appreciate you opening up to me about this sort of thing, I bet it must've been pretty hard to do.
+             B. Yeah, it's like that sometimes. Honestly, I don't know why you decided to open up to me, I'm not really the best at this type of thing.
+              *Provide feedback*
+             
+     friend: Thanks, it really means a lot to me knowing that I can talk to you about this sort of thing. I just didn't know who to turn to or what to do. 
+             A. Don't worry, I'll be here to support you and you need anything at all, please let me know. I know a bunch of resources or tricks that could be helpful!
+             B. Maybe you should've gone to CAPS or something? I don't know, I heard that people find them useful. 
+              *Provide feedback*
+             
+     friend: You do? That's great actually! I haven't really put much thought into it, so any help is very much appreciated. What sort of ideas did you have in mind?
+             A. Oh yeah, sure thing! Let's see...I know! How about this, I send you reminder texts right before class so you remember or at least have a reminder to go? I can also text you every now and then to check up on you and see how things are gong! Getting reminders from my friends has usually worked wonders for me, so hopefully it does for you too!
+             B. Uhm, there's way too many, it might just be better for you to just go online and research something yourself. 
+              *Provide feedback*
+             
+    friend: Yeah! That sounds like a great idea actually! I'd really appreciate it. Those reminders seem like they'd be a huge help. 
+    
+    End Scene
+
+             *Provide feedback*
+             
+Insert Tips
+
+Insert "Thanks for playing!"
+
+Insert shameless Active Minds social media
+
+             
+Scenario 2: A Break-Up
+
+Scenario 3: Dark Thoughts (Maybe, if given the pass based on its dark themes)
